@@ -1,6 +1,6 @@
 # E-Commerce-API
 
-![](assets/images/screenshot.jpg)
+![screenshot](https://user-images.githubusercontent.com/100505172/206210392-653f4067-279f-4883-85e9-6051ff3dc009.jpg)
 
 # ABOUT
 This is an E-commerce API made using Node.Js & MongoDB. 
